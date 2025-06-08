@@ -105,8 +105,8 @@ const int echoPin = 18;     // Echo pin
 
 ```cpp
 const char* ssid = "Bread";                    // WiFi network name
-const char* password = "vibgyor123";           // WiFi password
-char auth[] = "7w4fj76RmqQgt6OsMU0hlFvS5mu1ykih";  // Blynk auth token
+const char* password = "<<your password>>";           // WiFi password
+char auth[] = "<<Your Blynk authentication token>>";  // Blynk auth token
 ```
 
 ### Virtual Pin Mapping
